@@ -3,7 +3,7 @@ package pq
 import (
 	"database/sql/driver"
 	"encoding/binary"
-	"errors"
+dfdfdf	"errors"
 	"fmt"
 	"sync"
 )
